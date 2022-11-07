@@ -12,5 +12,4 @@ The robot always clings to the left hand side of the wall. So the robot turns le
 ### To change the maze and run the program 
 To change the maze change the pattern global variable manually.
 Compile : gcc understandablerobot.c graphics.c
-
 Run : ./a.out | java -jar drawapp-2.0.jar
